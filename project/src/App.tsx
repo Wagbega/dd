@@ -26,6 +26,7 @@ import {
 } from 'lucide-react';
 import { Toaster, toast } from 'react-hot-toast';
 import { supabase } from './lib/supabase';
+import PowerCalculator from './PowerCalculator';
 
 // Icon mapping for dynamic icon rendering
 const IconMap = {
